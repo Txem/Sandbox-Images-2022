@@ -6,7 +6,7 @@ Boolean widthLarger = false, heightLarger = false;
 //
 fullScreen ();
 //Population
-pic = loadImage("moonwalk.jpg"); //Dimensions: width 800, height 600
+pic = loadImage("moonwalk.jpg"); //Dimensions: width 960, height 640
 //Find the Larger dimension for aspect ratio
 int picWidth = 960; 
 int picHeight = 640;
